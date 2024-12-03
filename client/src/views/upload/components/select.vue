@@ -6,7 +6,7 @@
 			<MostlyCloudy />
 		</el-icon>
 		<p>
-			将文件拖到此处，或
+			将文件拖到此处(拖拽待开发)，或
 			<el-text
 				style="cursor: pointer"
 				type="primary"
