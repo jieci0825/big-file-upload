@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  /* 版心宽度 */
+  --center-width: 1000px;
+  /* 主色 */
+  --primary-color: var(--el-color-primary);
+  /* 文本颜色 */
+  --text-color-primary: var(--el-text-color-primary);
+  --text-color-regular: var(--el-text-color-regular);
+  --text-color-placeholder: var(--el-text-color-placeholder);
+  --text-color-disabled: var(--el-text-color-disabled);
+  /* 边框颜色 */
+  --border-color: var(--el-border-color);
+  --border-color-light: var(--el-border-color-light);
+  --border-color-lighter: var(--el-border-color-lighter);
+  /* 圆角 */
+  --border-radius: 6px;
+  --border-radius-small: 4px;
+  --border-radius-large: 8px;
+}
